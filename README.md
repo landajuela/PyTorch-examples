@@ -1,2 +1,3 @@
 # PyTorch-examples
-Little networks using wonderful PyTorch
+
+Machine learning examples using the wonderful PyTorch library
