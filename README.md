@@ -4,13 +4,13 @@ Machine learning examples using the wonderful PyTorch library
 
 ## Linear Regression
 
-Simple linear regression in Pytorch.
+*Simple linear regression in Pytorch.
 
 ## Recurrent Neural Network for sin curve sequence
 
-Learn hot to generate the sin curve.
+*Learn how to generate the sin curve.
 
 ## Signal to Signal learning with a recurrent neural network
 
-Learn a signal to signal correspondance.
+*Learn a signal to signal correspondance.
 
