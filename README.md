@@ -6,11 +6,11 @@ Machine learning examples using the wonderful PyTorch library
 
 - Simple linear regression in Pytorch.
 
-## Recurrent Neural Network for sin curve sequence
+## Recurrent Neural Network for sin curve sequence prediction
 
-- Learn how to generate the sin curve.
+- Learn how to predict the sin curve.
 
 ## Signal to Signal learning with a recurrent neural network
 
-- Learn a signal to signal correspondance.
+- Learn a signal to signal regression.
 
