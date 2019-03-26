@@ -2,15 +2,15 @@
 
 Machine learning examples using the wonderful PyTorch library
 
-## `LinearRegression.ipynb`
+### `LinearRegression.ipynb`
 
 - Simple linear regression in Pytorch.
 
-## `RNNSinCurve.ipynb`
+### `RNNSinCurve.ipynb`
 
 - Recurrent Neural Network for sin curve sequence prediction
 
-## `Signal2Signal.ipynb`
+### `Signal2Signal.ipynb`
 
 - Learn a signal to signal regression.
 
