@@ -1,6 +1,6 @@
 # PyTorch-examples
 
-Machine learning examples using the wonderful PyTorch library
+Machine learning examples using the wonderful PyTorch library.
 
 ### `LinearRegression.ipynb`
 
@@ -8,7 +8,7 @@ Machine learning examples using the wonderful PyTorch library
 
 ### `RNNSinCurve.ipynb`
 
-- Recurrent Neural Network for sin curve sequence prediction
+- Recurrent Neural Network for Sin[x] curve sequence prediction.
 
 ### `Signal2Signal.ipynb`
 
