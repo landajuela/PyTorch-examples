@@ -2,7 +2,7 @@
 
 Machine learning examples using the wonderful PyTorch library.
 
-### ```LinearRegression.ipynb```
+### `LinearRegression.ipynb`
 
 - Simple linear regression in Pytorch.
 
