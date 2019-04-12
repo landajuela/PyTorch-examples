@@ -10,6 +10,11 @@ Machine learning examples using the wonderful PyTorch library.
 
 - Simple linear regression in Pytorch.
 
+### `FunctionRegression.ipynb`
+
+- Simple function regression in Pytorch.
+- Plot statistics: Train & Val loss, Learning rate, Gradient nomrs
+
 ### `RNNSinCurve.ipynb`
 
 - Recurrent Neural Network for Sin[x] curve sequence prediction.
