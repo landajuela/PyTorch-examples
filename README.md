@@ -23,3 +23,8 @@ Machine learning examples using the wonderful PyTorch library.
 
 - Learn a signal to signal regression.
 
+### `Encoder_Decoder.ipynb`
+
+- Simple encoder for time series.
+
+
