@@ -1,30 +1,28 @@
 # PyTorch-examples
 
-Machine learning examples using the wonderful PyTorch library.
+Machine learning examples using the PyTorch library.
 
-### `Autograd.ipynb`
+## `Autograd.ipynb`
 
 - Check Autograd differentiation
 
-### `LinearRegression.ipynb`
+## `LinearRegression.ipynb`
 
 - Simple linear regression in Pytorch.
 
-### `FunctionRegression.ipynb`
+## `FunctionRegression.ipynb`
 
 - Simple function regression in Pytorch.
 - Plot statistics: Train & Val loss, Learning rate, Gradient nomrs
 
-### `RNNSinCurve.ipynb`
+## `RNNSinCurve.ipynb`
 
 - Recurrent Neural Network for Sin[x] curve sequence prediction.
 
-### `Signal2Signal.ipynb`
+## `Signal2Signal.ipynb`
 
 - Learn a signal to signal regression.
 
-### `Encoder_Decoder.ipynb`
+## `Encoder_Decoder.ipynb`
 
 - Simple encoder for time series.
-
-
